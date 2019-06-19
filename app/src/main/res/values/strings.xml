@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffee Senior</string>
+
+    <string name="french">French</string>
+    <string name="turkish">Turkish</string>
+    <string name="espresso">Espresso</string>
+
+    <string name="choco">Chocolate</string>
+    <string name="cream">Cream</string>
+    <string name="mocca">Mocca</string>
+</resources>
